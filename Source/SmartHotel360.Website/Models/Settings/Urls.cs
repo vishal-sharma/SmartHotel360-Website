@@ -1,5 +1,6 @@
 ﻿namespace SmartHotel360.PublicWeb.Models.Settings
 {
+    // add comment to test integration github and Azure boards
     public class Urls
     {
         public string Hotels { get; set; }
