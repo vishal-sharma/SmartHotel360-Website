@@ -1,5 +1,6 @@
 ﻿namespace SmartHotel360.PublicWeb.Models.Settings
 {
+
     // add comment to test
     public class Urls
     {
